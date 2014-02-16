@@ -25,11 +25,15 @@ BOOST_SUFFIX?=-mgw46-mt-sd-1_52
 
 INCLUDEPATHS= \
  -I"$(CURDIR)" \
- -I"$(DEPSDIR)/include"
+ -I"d:/deps/boost_1_55_0" \
+ -I"d:/deps/db-4.8.30.NC/build_unix" \
+ -I"d:/deps/openssl-1.0.1e/include"
 
 LIBPATHS= \
  -L"$(CURDIR)/leveldb" \
- -L"$(DEPSDIR)/lib"
+ -L"d:/deps/boost_1_55_0/stage/lib" \
+ -L"d:/deps/db-4.8.30.NC/build_unix" \
+ -L"d:/deps/openssl-1.0.1e"
 
 LIBS= \
  -l leveldb \
@@ -47,7 +51,7 @@ DEFS=-D_MT -DWIN32 -D_WINDOWS -DBOOST_THREAD_USE_LIB -DBOOST_SPIRIT_THREADSAFE
 DEBUGFLAGS=-g
 CFLAGS=-mthreads -O2 -w -Wall -Wextra -Wformat -Wformat-security -Wno-unused-parameter $(DEBUGFLAGS) $(DEFS) $(INCLUDEPATHS)
 # enable: ASLR, DEP and large address aware
-LDFLAGS=-Wl,--dynamicbase -Wl,--nxcompat -Wl,--large-address-aware
+LDFLAGS=-Wl,--dynamicbase -Wl,--nxcompat -Wl,--large-address-aware -static
 
 TESTDEFS = -DTEST_DATA_DIR=$(abspath test/data)
 
