@@ -1,7 +1,6 @@
 src/*.exe
-src/litecoin
-src/litecoind
-src/test_litecoin
+src/JONAcoin
+src/test_JONAcoin
 .*.swp
 *.*~*
 *.bak
@@ -14,12 +13,12 @@ src/test_litecoin
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-litecoin-qt
-Litecoin-Qt.app
+JONAcoin-qt
+JONAcoin-Qt.app
 
 # Unit-tests
 Makefile.test
-litecoin-qt_test
+JONAcoin-qt_test
 
 # Resources cpp
 qrc_*.cpp
