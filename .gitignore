@@ -8,7 +8,7 @@ src/test_JONAcoin
 *.orig
 *.o
 *.patch
-.litecoin
+.jonacoin
 
 # Compilation and Qt preprocessor part
 *.qm

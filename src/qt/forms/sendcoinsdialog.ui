@@ -545,7 +545,7 @@
            <number>12</number>
           </property>
           <property name="sizeConstraint">
-           <enum>QLayout::SetDefaultConstraint</enum>
+           <enum>QLayout::SetDefauJONAonstraint</enum>
           </property>
           <property name="topMargin">
            <number>5</number>
@@ -720,7 +720,7 @@
           <cursorShape>IBeamCursor</cursorShape>
          </property>
          <property name="text">
-          <string>123.456 LTC</string>
+          <string>123.456 JONA</string>
          </property>
          <property name="textInteractionFlags">
           <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
