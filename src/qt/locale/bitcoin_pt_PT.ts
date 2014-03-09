@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Jonacoin</source>
-        <translation>Sobre Jonacoin</translation>
+        <source>About JONAcoin</source>
+        <translation>Sobre JONAcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Jonacoin&lt;/b&gt; version</source>
-        <translation>Versão do &lt;b&gt;Jonacoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;JONAcoin&lt;/b&gt; version</source>
+        <translation>Versão do &lt;b&gt;JONAcoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="+0"/>
-        <source>The Jonacoin developers</source>
-        <translation>Os programadores Jonacoin</translation>
+        <source>The JONAcoin developers</source>
+        <translation>Os programadores JONAcoin</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Jonacoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estes são os seus endereços Jonacoin para receber pagamentos. Poderá enviar um endereço diferente para cada remetente para poder identificar os pagamentos.</translation>
+        <source>These are your JONAcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estes são os seus endereços JONAcoin para receber pagamentos. Poderá enviar um endereço diferente para cada remetente para poder identificar os pagamentos.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Jonacoin address</source>
-        <translation>Assine uma mensagem para provar que é dono de um endereço Jonacoin</translation>
+        <source>Sign a message to prove you own a JONAcoin address</source>
+        <translation>Assine uma mensagem para provar que é dono de um endereço JONAcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Jonacoin address</source>
-        <translation>Verifique a mensagem para assegurar que foi assinada com o endereço Jonacoin especificado</translation>
+        <source>Verify a message to ensure it was signed with a specified JONAcoin address</source>
+        <translation>Verifique a mensagem para assegurar que foi assinada com o endereço JONAcoin especificado</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Jonacoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estes são os seus endereços Jonacoin para enviar pagamentos. Verifique sempre o valor e a morada de envio antes de enviar moedas.</translation>
+        <source>These are your JONAcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estes são os seus endereços JONAcoin para enviar pagamentos. Verifique sempre o valor e a morada de envio antes de enviar moedas.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="-56"/>
-        <source>Jonacoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your jonacoins from being stolen by malware infecting your computer.</source>
-        <translation>O cliente Jonacoin irá agora ser fechado para terminar o processo de encriptação. Recorde que a encriptação da sua carteira não protegerá totalmente os seus jonacoins de serem roubados por programas maliciosos que infectem o seu computador.</translation>
+        <source>JONAcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your jonacoins from being stolen by malware infecting your computer.</source>
+        <translation>O cliente JONAcoin irá agora ser fechado para terminar o processo de encriptação. Recorde que a encriptação da sua carteira não protegerá totalmente os seus jonacoins de serem roubados por programas maliciosos que infectem o seu computador.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Jonacoin</source>
-        <translation>Mostrar informação sobre Jonacoin</translation>
+        <source>Show information about JONAcoin</source>
+        <translation>Mostrar informação sobre JONAcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,12 +419,12 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Jonacoin address</source>
+        <source>Send coins to a JONAcoin address</source>
         <translation>Enviar moedas para um endereço jonacoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Jonacoin</source>
+        <source>Modify configuration options for JONAcoin</source>
         <translation>Modificar opções de configuração para jonacoin</translation>
     </message>
     <message>
@@ -455,8 +455,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Jonacoin</source>
-        <translation>Jonacoin</translation>
+        <source>JONAcoin</source>
+        <translation>JONAcoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Jonacoin</source>
-        <translation>&amp;Sobre o Jonacoin</translation>
+        <source>&amp;About JONAcoin</source>
+        <translation>&amp;Sobre o JONAcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Jonacoin addresses to prove you own them</source>
-        <translation>Assine mensagens com os seus endereços Jonacoin para provar que os controla</translation>
+        <source>Sign messages with your JONAcoin addresses to prove you own them</source>
+        <translation>Assine mensagens com os seus endereços JONAcoin para provar que os controla</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Jonacoin addresses</source>
-        <translation>Verifique mensagens para assegurar que foram assinadas com o endereço Jonacoin especificado</translation>
+        <source>Verify messages to ensure they were signed with specified JONAcoin addresses</source>
+        <translation>Verifique mensagens para assegurar que foram assinadas com o endereço JONAcoin especificado</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="+47"/>
-        <source>Jonacoin client</source>
-        <translation>Cliente Jonacoin</translation>
+        <source>JONAcoin client</source>
+        <translation>Cliente JONAcoin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Jonacoin network</source>
-        <translation><numerusform>%n ligação ativa à rede Jonacoin</numerusform><numerusform>%n ligações ativas à rede Jonacoin</numerusform></translation>
+        <source>%n active connection(s) to JONAcoin network</source>
+        <translation><numerusform>%n ligação ativa à rede JONAcoin</numerusform><numerusform>%n ligações ativas à rede JONAcoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Endereço: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Jonacoin address or malformed URI parameters.</source>
-        <translation>URI não foi lido correctamente! Isto pode ser causado por um endereço Jonacoin inválido ou por parâmetros URI malformados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid JONAcoin address or malformed URI parameters.</source>
+        <translation>URI não foi lido correctamente! Isto pode ser causado por um endereço JONAcoin inválido ou por parâmetros URI malformados.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Endereço: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Jonacoin can no longer continue safely and will quit.</source>
-        <translation>Ocorreu um erro fatal. O Jonacoin não pode continuar com segurança e irá fechar.</translation>
+        <source>A fatal error occurred. JONAcoin can no longer continue safely and will quit.</source>
+        <translation>Ocorreu um erro fatal. O JONAcoin não pode continuar com segurança e irá fechar.</translation>
     </message>
 </context>
 <context>
@@ -737,7 +737,7 @@ Endereço: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Jonacoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid JONAcoin address.</source>
         <translation>O endereço introduzido &quot;%1&quot; não é um endereço jonacoin válido.</translation>
     </message>
     <message>
@@ -756,8 +756,8 @@ Endereço: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Jonacoin-Qt</source>
-        <translation>Jonacoin-Qt</translation>
+        <source>JONAcoin-Qt</source>
+        <translation>JONAcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Endereço: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Jonacoin after logging in to the system.</source>
-        <translation>Começar o Jonacoin automaticamente ao iniciar sessão no sistema.</translation>
+        <source>Automatically start JONAcoin after logging in to the system.</source>
+        <translation>Começar o JONAcoin automaticamente ao iniciar sessão no sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Jonacoin on system login</source>
-        <translation>&amp;Começar o Jonacoin ao iniciar o sistema</translation>
+        <source>&amp;Start JONAcoin on system login</source>
+        <translation>&amp;Começar o JONAcoin ao iniciar o sistema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,7 +844,7 @@ Endereço: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Jonacoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the JONAcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Abrir a porta do cliente jonacoin automaticamente no seu router. Isto penas funciona se o seu router suportar UPnP e este se encontrar ligado.</translation>
     </message>
     <message>
@@ -854,8 +854,8 @@ Endereço: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Jonacoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Ligar à rede Jonacoin através de um proxy SOCKS (p.ex. quando ligar através de Tor).</translation>
+        <source>Connect to the JONAcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Ligar à rede JONAcoin através de um proxy SOCKS (p.ex. quando ligar através de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Endereço: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Jonacoin.</source>
-        <translation>A linguagem da interface do utilizador pode ser definida aqui. Esta definição entrará em efeito após reiniciar o Jonacoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting JONAcoin.</source>
+        <translation>A linguagem da interface do utilizador pode ser definida aqui. Esta definição entrará em efeito após reiniciar o JONAcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Endereço: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Jonacoin addresses in the transaction list or not.</source>
-        <translation>Se mostrar, ou não, os endereços Jonacoin na lista de transações.</translation>
+        <source>Whether to show JONAcoin addresses in the transaction list or not.</source>
+        <translation>Se mostrar, ou não, os endereços JONAcoin na lista de transações.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Endereço: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Jonacoin.</source>
-        <translation>Esta opção entrará em efeito após reiniciar o Jonacoin.</translation>
+        <source>This setting will take effect after restarting JONAcoin.</source>
+        <translation>Esta opção entrará em efeito após reiniciar o JONAcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Endereço: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Jonacoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada poderá estar desatualizada. A sua carteira sincroniza automaticamente com a rede Jonacoin depois de estabelecer ligação, mas este processo ainda não está completo.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the JONAcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>A informação mostrada poderá estar desatualizada. A sua carteira sincroniza automaticamente com a rede JONAcoin depois de estabelecer ligação, mas este processo ainda não está completo.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1219,8 +1219,8 @@ Endereço: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Jonacoin-Qt help message to get a list with possible Jonacoin command-line options.</source>
-        <translation>Mostrar a mensagem de ajuda do Jonacoin-Qt para obter uma lista com possíveis opções a usar na linha de comandos.</translation>
+        <source>Show the JONAcoin-Qt help message to get a list with possible JONAcoin command-line options.</source>
+        <translation>Mostrar a mensagem de ajuda do JONAcoin-Qt para obter uma lista com possíveis opções a usar na linha de comandos.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Endereço: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Jonacoin - Debug window</source>
-        <translation>Jonacoin - Janela de depuração</translation>
+        <source>JONAcoin - Debug window</source>
+        <translation>JONAcoin - Janela de depuração</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Jonacoin Core</source>
-        <translation>Núcleo Jonacoin</translation>
+        <source>JONAcoin Core</source>
+        <translation>Núcleo JONAcoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,7 +1254,7 @@ Endereço: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Jonacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the JONAcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Abrir o ficheiro de registo de depuração da pasta de dados actual. Isto pode demorar alguns segundos para ficheiros de registo maiores.</translation>
     </message>
     <message>
@@ -1264,8 +1264,8 @@ Endereço: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Jonacoin RPC console.</source>
-        <translation>Bem-vindo à consola RPC Jonacoin.</translation>
+        <source>Welcome to the JONAcoin RPC console.</source>
+        <translation>Bem-vindo à consola RPC JONAcoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,8 +1448,8 @@ Endereço: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Jonacoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduza um endereço Jonacoin (p.ex. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a JONAcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduza um endereço JONAcoin (p.ex. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Endereço: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Jonacoin address</source>
-        <translation>Assine uma mensagem para provar que é dono deste endereço Jonacoin</translation>
+        <source>Sign the message to prove you own this JONAcoin address</source>
+        <translation>Assine uma mensagem para provar que é dono deste endereço JONAcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Endereço: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Jonacoin address</source>
-        <translation>Verifique a mensagem para assegurar que foi assinada com o endereço Jonacoin especificado</translation>
+        <source>Verify the message to ensure it was signed with the specified JONAcoin address</source>
+        <translation>Verifique a mensagem para assegurar que foi assinada com o endereço JONAcoin especificado</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Endereço: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Jonacoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduza um endereço Jonacoin (p.ex. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a JONAcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduza um endereço JONAcoin (p.ex. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Endereço: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Jonacoin signature</source>
-        <translation>Introduza assinatura Jonacoin</translation>
+        <source>Enter JONAcoin signature</source>
+        <translation>Introduza assinatura JONAcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Endereço: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Jonacoin developers</source>
-        <translation>Os programadores Jonacoin</translation>
+        <source>The JONAcoin developers</source>
+        <translation>Os programadores JONAcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,8 +2187,8 @@ Endereço: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Jonacoin version</source>
-        <translation>Versão Jonacoin</translation>
+        <source>JONAcoin version</source>
+        <translation>Versão JONAcoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2306,7 +2306,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Jonacoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;JONAcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, deverá definir rpcpassword no ficheiro de configuração :
  %s
@@ -2317,7 +2317,7 @@ rpcpassword=%s
 O nome de utilizador e password NÃO DEVEM ser iguais.
 Se o ficheiro não existir, crie-o com permissões de leitura apenas para o dono.
 Também é recomendado definir alertnotify para que seja alertado sobre problemas;
-por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Jonacoin&quot; admin@foo.com
+por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta JONAcoin&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2332,8 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Jonacoin&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Jonacoin is probably already running.</source>
-        <translation>Impossível trancar a pasta de dados %s.  Provavelmente o Jonacoin já está a ser executado.</translation>
+        <source>Cannot obtain a lock on data directory %s. JONAcoin is probably already running.</source>
+        <translation>Impossível trancar a pasta de dados %s.  Provavelmente o JONAcoin já está a ser executado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Jonacoin&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Jonacoin will not work properly.</source>
-        <translation>Atenção: Por favor verifique que a data e hora do seu computador estão correctas! Se o seu relógio não estiver certo o Jonacoin não irá funcionar correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong JONAcoin will not work properly.</source>
+        <translation>Atenção: Por favor verifique que a data e hora do seu computador estão correctas! Se o seu relógio não estiver certo o JONAcoin não irá funcionar correctamente.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Jonacoin&quot; admin@fo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Jonacoin Wiki for SSL setup instructions)</source>
-        <translation>Opções SSL: (ver a Wiki Jonacoin para instruções de configuração SSL)</translation>
+        <source>SSL options: (see the JONAcoin Wiki for SSL setup instructions)</source>
+        <translation>Opções SSL: (ver a Wiki JONAcoin para instruções de configuração SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Jonacoin&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Jonacoin</source>
-        <translation>Erro ao carregar wallet.dat: A Carteira requer uma versão mais recente do Jonacoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of JONAcoin</source>
+        <translation>Erro ao carregar wallet.dat: A Carteira requer uma versão mais recente do JONAcoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Jonacoin to complete</source>
-        <translation>A Carteira precisou ser reescrita: reinicie o Jonacoin para completar</translation>
+        <source>Wallet needed to be rewritten: restart JONAcoin to complete</source>
+        <translation>A Carteira precisou ser reescrita: reinicie o JONAcoin para completar</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Jonacoin&quot; admin@fo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Jonacoin is probably already running.</source>
-        <translation>Incapaz de vincular à porta %s neste computador.  Provavelmente o Jonacoin já está a funcionar.</translation>
+        <source>Unable to bind to %s on this computer. JONAcoin is probably already running.</source>
+        <translation>Incapaz de vincular à porta %s neste computador.  Provavelmente o JONAcoin já está a funcionar.</translation>
     </message>
     <message>
         <location line="+64"/>

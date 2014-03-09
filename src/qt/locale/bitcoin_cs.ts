@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Jonacoin</source>
-        <translation>O Jonacoinu</translation>
+        <source>About JONAcoin</source>
+        <translation>O JONAcoinu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Jonacoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Jonacoin&lt;/b&gt; verze</translation>
+        <source>&lt;b&gt;JONAcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;JONAcoin&lt;/b&gt; verze</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+0"/>
-        <source>The Jonacoin developers</source>
-        <translation>Vývojáři Jonacoinu</translation>
+        <source>The JONAcoin developers</source>
+        <translation>Vývojáři JONAcoinu</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Jonacoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tohle jsou tvé Jonacoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
+        <source>These are your JONAcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tohle jsou tvé JONAcoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Jonacoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem Jonacoinové adresy</translation>
+        <source>Sign a message to prove you own a JONAcoin address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem JONAcoinové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Jonacoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Jonacoinovou adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified JONAcoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou JONAcoinovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Jonacoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tohle jsou tvé Jonacoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
+        <source>These are your JONAcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tohle jsou tvé JONAcoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-56"/>
-        <source>Jonacoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your jonacoins from being stolen by malware infecting your computer.</source>
-        <translation>Jonacoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých jonacoinů malwarem, kterým se může počítač nakazit.</translation>
+        <source>JONAcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your jonacoins from being stolen by malware infecting your computer.</source>
+        <translation>JONAcoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých jonacoinů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Jonacoin</source>
-        <translation>Zobraz informace o Jonacoinu</translation>
+        <source>Show information about JONAcoin</source>
+        <translation>Zobraz informace o JONAcoinu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Jonacoin address</source>
-        <translation>Pošli mince na Jonacoinovou adresu</translation>
+        <source>Send coins to a JONAcoin address</source>
+        <translation>Pošli mince na JONAcoinovou adresu</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Jonacoin</source>
-        <translation>Uprav nastavení Jonacoinu</translation>
+        <source>Modify configuration options for JONAcoin</source>
+        <translation>Uprav nastavení JONAcoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Jonacoin</source>
-        <translation>Jonacoin</translation>
+        <source>JONAcoin</source>
+        <translation>JONAcoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Jonacoin</source>
-        <translation>O &amp;Jonacoinu</translation>
+        <source>&amp;About JONAcoin</source>
+        <translation>O &amp;JONAcoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Jonacoin addresses to prove you own them</source>
-        <translation>Podepiš zprávy svými Jonacoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
+        <source>Sign messages with your JONAcoin addresses to prove you own them</source>
+        <translation>Podepiš zprávy svými JONAcoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Jonacoin addresses</source>
-        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Jonacoinovými adresami</translation>
+        <source>Verify messages to ensure they were signed with specified JONAcoin addresses</source>
+        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými JONAcoinovými adresami</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+47"/>
-        <source>Jonacoin client</source>
-        <translation>Jonacoin klient</translation>
+        <source>JONAcoin client</source>
+        <translation>JONAcoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Jonacoin network</source>
-        <translation><numerusform>%n aktivní spojení do Jonacoinové sítě</numerusform><numerusform>%n aktivní spojení do Jonacoinové sítě</numerusform><numerusform>%n aktivních spojení do Jonacoinové sítě</numerusform></translation>
+        <source>%n active connection(s) to JONAcoin network</source>
+        <translation><numerusform>%n aktivní spojení do JONAcoinové sítě</numerusform><numerusform>%n aktivní spojení do JONAcoinové sítě</numerusform><numerusform>%n aktivních spojení do JONAcoinové sítě</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Adresa: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Jonacoin address or malformed URI parameters.</source>
-        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Jonacoinová adresa nebo poškozené parametry URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid JONAcoin address or malformed URI parameters.</source>
+        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná JONAcoinová adresa nebo poškozené parametry URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Jonacoin can no longer continue safely and will quit.</source>
-        <translation>Stala se fatální chyba. Jonacoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
+        <source>A fatal error occurred. JONAcoin can no longer continue safely and will quit.</source>
+        <translation>Stala se fatální chyba. JONAcoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adresa: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Jonacoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; není platná Jonacoinová adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid JONAcoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; není platná JONAcoinová adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adresa: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Jonacoin-Qt</source>
-        <translation>Jonacoin-Qt</translation>
+        <source>JONAcoin-Qt</source>
+        <translation>JONAcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Jonacoin after logging in to the system.</source>
-        <translation>Automaticky spustí Jonacoin po přihlášení do systému.</translation>
+        <source>Automatically start JONAcoin after logging in to the system.</source>
+        <translation>Automaticky spustí JONAcoin po přihlášení do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Jonacoin on system login</source>
-        <translation>S&amp;pustit Jonacoin po přihlášení do systému</translation>
+        <source>&amp;Start JONAcoin on system login</source>
+        <translation>S&amp;pustit JONAcoin po přihlášení do systému</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,7 +844,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Jonacoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the JONAcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Automaticky otevře potřebný port na routeru. Tohle funguje jen za předpokladu, že tvůj router podporuje UPnP a že je UPnP povolené.</translation>
     </message>
     <message>
@@ -854,8 +854,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Jonacoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Připojí se do Jonacoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
+        <source>Connect to the JONAcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Připojí se do JONAcoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Jonacoin.</source>
-        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Jonacoinu.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting JONAcoin.</source>
+        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování JONAcoinu.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,7 +944,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Jonacoin addresses in the transaction list or not.</source>
+        <source>Whether to show JONAcoin addresses in the transaction list or not.</source>
         <translation>Zda ukazovat jonacoinové adresy ve výpisu transakcí nebo ne.</translation>
     </message>
     <message>
@@ -996,8 +996,8 @@ Adresa: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Jonacoin.</source>
-        <translation>Nastavení se projeví až po restartování Jonacoinu.</translation>
+        <source>This setting will take effect after restarting JONAcoin.</source>
+        <translation>Nastavení se projeví až po restartování JONAcoinu.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adresa: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Jonacoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Jonacoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the JONAcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s JONAcoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1219,8 +1219,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Jonacoin-Qt help message to get a list with possible Jonacoin command-line options.</source>
-        <translation>Seznam parametrů Jonacoinu pro příkazovou řádku získáš v nápovědě Jonacoinu Qt.</translation>
+        <source>Show the JONAcoin-Qt help message to get a list with possible JONAcoin command-line options.</source>
+        <translation>Seznam parametrů JONAcoinu pro příkazovou řádku získáš v nápovědě JONAcoinu Qt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adresa: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Jonacoin - Debug window</source>
-        <translation>Jonacoin - ladicí okno</translation>
+        <source>JONAcoin - Debug window</source>
+        <translation>JONAcoin - ladicí okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Jonacoin Core</source>
-        <translation>Jádro Jonacoinu</translation>
+        <source>JONAcoin Core</source>
+        <translation>Jádro JONAcoinu</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Jonacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři soubor s ladicími záznamy Jonacoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
+        <source>Open the JONAcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři soubor s ladicími záznamy JONAcoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Jonacoin RPC console.</source>
-        <translation>Vítej v Jonacoinové RPC konzoli.</translation>
+        <source>Welcome to the JONAcoin RPC console.</source>
+        <translation>Vítej v JONAcoinové RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,8 +1448,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Jonacoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadej Jonacoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a JONAcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadej JONAcoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Jonacoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Jonacoinové adresy</translation>
+        <source>Sign the message to prove you own this JONAcoin address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této JONAcoinové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Jonacoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Jonacoinovou adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified JONAcoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou JONAcoinovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adresa: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Jonacoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadej Jonacoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a JONAcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadej JONAcoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Jonacoin signature</source>
-        <translation>Vlož Jonacoinový podpis</translation>
+        <source>Enter JONAcoin signature</source>
+        <translation>Vlož JONAcoinový podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adresa: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Jonacoin developers</source>
-        <translation>Vývojáři Jonacoinu</translation>
+        <source>The JONAcoin developers</source>
+        <translation>Vývojáři JONAcoinu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,8 +2187,8 @@ Adresa: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Jonacoin version</source>
-        <translation>Verze Jonacoinu</translation>
+        <source>JONAcoin version</source>
+        <translation>Verze JONAcoinu</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2306,7 +2306,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Jonacoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;JONAcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíš nastavit rpcpassword v konfiguračním souboru:
 %s
@@ -2317,7 +2317,7 @@ rpcpassword=%s
 rpcuser a rpcpassword NESMÍ být stejné.
 Pokud konfigurační soubor ještě neexistuje, vytvoř ho tak, aby ho mohl číst pouze vlastník.
 Je také doporučeno si nastavit alertnotify, abys byl upozorněn na případné problémy;
-například: alertnotify=echo %%s | mail -s &quot;Jonacoin Alert&quot; admin@foo.com
+například: alertnotify=echo %%s | mail -s &quot;JONAcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2332,8 @@ například: alertnotify=echo %%s | mail -s &quot;Jonacoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Jonacoin is probably already running.</source>
-        <translation>Nedaří se mi získat zámek na datový adresář %s. Jonacoin pravděpodobně už jednou běží.</translation>
+        <source>Cannot obtain a lock on data directory %s. JONAcoin is probably already running.</source>
+        <translation>Nedaří se mi získat zámek na datový adresář %s. JONAcoin pravděpodobně už jednou běží.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ například: alertnotify=echo %%s | mail -s &quot;Jonacoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Jonacoin will not work properly.</source>
-        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Jonacoin nebude fungovat správně.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong JONAcoin will not work properly.</source>
+        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, JONAcoin nebude fungovat správně.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ například: alertnotify=echo %%s | mail -s &quot;Jonacoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Jonacoin Wiki for SSL setup instructions)</source>
-        <translation>Možnosti SSL: (viz instrukce nastavení SSL v Jonacoin Wiki)</translation>
+        <source>SSL options: (see the JONAcoin Wiki for SSL setup instructions)</source>
+        <translation>Možnosti SSL: (viz instrukce nastavení SSL v JONAcoin Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ například: alertnotify=echo %%s | mail -s &quot;Jonacoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Jonacoin</source>
-        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Jonacoinu</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of JONAcoin</source>
+        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi JONAcoinu</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Jonacoin to complete</source>
-        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Jonacoin, aby se operace dokončila</translation>
+        <source>Wallet needed to be rewritten: restart JONAcoin to complete</source>
+        <translation>Soubor s peněženkou potřeboval přepsat: restartuj JONAcoin, aby se operace dokončila</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ například: alertnotify=echo %%s | mail -s &quot;Jonacoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Jonacoin is probably already running.</source>
-        <translation>Nedaří se mi připojit na %s na tomhle počítači. Jonacoin už pravděpodobně jednou běží.</translation>
+        <source>Unable to bind to %s on this computer. JONAcoin is probably already running.</source>
+        <translation>Nedaří se mi připojit na %s na tomhle počítači. JONAcoin už pravděpodobně jednou běží.</translation>
     </message>
     <message>
         <location line="+64"/>

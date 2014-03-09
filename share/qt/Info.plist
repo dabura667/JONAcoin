@@ -15,16 +15,16 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>Jonacoin-Qt</string>
+	<string>JONAcoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.jonacoin.Jonacoin-Qt</string>
+	<string>org.jonacoin.JONAcoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>org.jonacoin.JonacoinPayment</string>
+            <string>org.jonacoin.JONAcoinPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
               <string>jonacoin</string>

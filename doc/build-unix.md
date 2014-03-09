@@ -14,7 +14,7 @@ To Build
 	cd src/
 	make -f makefile.unix		# Headless jonacoin
 
-See readme-qt.rst for instructions on building Jonacoin-Qt, the graphical user interface.
+See readme-qt.rst for instructions on building JONAcoin-Qt, the graphical user interface.
 
 Dependencies
 ---------------------

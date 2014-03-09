@@ -2,7 +2,7 @@ JONAcoin 0.1 ALPHA
 ====================
 
 Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Jonacoin Developers
+Copyright (c) 2011-2013 JONAcoin Developers
 Copyright (c) 2014-2014 JONAcoin Developer
 
 Distributed under the MIT/X11 software license, see the accompanying
@@ -31,8 +31,8 @@ Unpack the files into a directory and run:
 - bin/64/JONAcoin-qt (GUI, 64-bit)
 - bin/64/JONAcoind (headless, 64-bit)
 
-See the documentation at the [Jonacoin Wiki](http://jonacoin.info)
-for help and more information. (It's the same as Jonacoin)
+See the documentation at the [JONAcoin Wiki](http://jonacoin.info)
+for help and more information. (It's the same as JONAcoin)
 
 
 Other Pages

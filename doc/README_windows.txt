@@ -1,7 +1,7 @@
 JONAcoin 0.1 ALPHA
 
 Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Jonacoin Developers
+Copyright (c) 2011-2013 JONAcoin Developers
 Copyright (c) 2014-2014 JONAcoin Developer
 Distributed under the MIT/X11 software license, see the accompanying
 file COPYING or http://www.opensource.org/licenses/mit-license.php.
